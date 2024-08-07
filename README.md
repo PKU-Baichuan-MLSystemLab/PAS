@@ -67,3 +67,15 @@ This project involves generating and refining complementary prompt data for PAS 
 3. Data Generation: Run ape_data_gen.py to generate complementary prompt data based on the seed and prompt data.
 4. Data Conversion: Use make_train_data.py to convert the generated data into the appropriate format for LLM training.
 5. Data Selection & Regeneration: Execute ape_critique.py to select and regenerate high-quality complementary prompt data, ensuring optimal data for training purposes.
+
+## Citation
+
+If you find PAS useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{zheng2024pas,
+  title={PAS: Data-Efficient Plug-and-Play Prompt Augmentation System},
+  author={Zheng, Miao and Liang, Hao and Yang, Fan and Sun, Haoze and Li, Tianpeng and Xiong, Lingchu and Zhang, Yan and Wu, Yozhen and Li, Kun and Sheng, Yanjun and others},
+  journal={arXiv preprint arXiv:2407.06027},
+  year={2024}
+}
+```
