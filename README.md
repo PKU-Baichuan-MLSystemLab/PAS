@@ -26,7 +26,7 @@ Model details:
 - Epoch: 2
 - Learning rate: 2e-5
 
-The model to generating prompt complementary is coming soon, stay tuned!
+We are excited to announce that the [PAS-7B](https://huggingface.co/PKU-Baichuan-MLSystemLab/PAS-7B) model is now open-source! 🎉🤗✨ Feel free to use it and explore its capabilities!
 
 We have released training dataset in [trainml_ape](data/trainml_ape.jsonl), and advise you to use the training framework, [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory) to finetune your own PAS model.
 
